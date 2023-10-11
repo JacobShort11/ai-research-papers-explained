@@ -3,4 +3,6 @@ Here you will find a collection of research papers which I have studied. I go th
 
 These are the papers which have interested me the most and therefore my master's project & potential future study will likely be in similar fields.
 
+# Currently in progress (notes to be uploaded)
+
 ![alt text](imgcnn.png)
