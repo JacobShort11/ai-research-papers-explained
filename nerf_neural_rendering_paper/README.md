@@ -1,5 +1,6 @@
 # NeRF Code Implementation (in progress)
 
+Original paper: https://arxiv.org/abs/2003.08934
 
 - Uses TensorFlow1
     - Incomptaible with M1 Macs
